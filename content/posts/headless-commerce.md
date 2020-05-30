@@ -9,6 +9,8 @@ Here is a headless commerce example with a buy button
 
 'code'
 
+\##test
+
 <div id='product-component-1589836932696'></div>
 <script type="text/javascript">
 /_<!\[CDATA\[_/
