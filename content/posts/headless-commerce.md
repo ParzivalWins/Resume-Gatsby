@@ -9,6 +9,7 @@ Here is a headless commerce example with a buy button
 
 'code'
 
+https://codepen.io/Coderesting/pen/yLyaJMz
 ##test
 
 <div id='product-component-1589836932<div id='product-component-1589836932696'></div><div id='product-component-1589836932696'></div>
