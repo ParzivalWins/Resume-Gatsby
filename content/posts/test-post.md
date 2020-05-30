@@ -2,7 +2,7 @@
 date: 2020-05-30T03:05:19Z
 hero_image: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
 title: Test Post
-author: Robert Thoreau
+author: Ben Morris
 
 ---
 This is a test
